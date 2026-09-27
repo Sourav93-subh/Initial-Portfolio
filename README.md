@@ -8,7 +8,7 @@
 [![Deploy](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel)](https://initial-portfolio-631d6pwel-sourav93-subhs-projects.vercel.app)
 [![License](https://img.shields.io/badge/License-MIT-8A9CAB?style=for-the-badge)](#license)
 
-**[🔴 Live Demo](https://initial-portfolio-631d6pwel-sourav93-subhs-projects.vercel.app)** · **[📄 Resume](#)** · **[💼 LinkedIn](https://www.linkedin.com/in/sourav-subham-4708a4251/)**
+**[🔴 Live Demo](https://initial-portfolio-jet.vercel.app/)** · **[📄 Resume](#)** · **[💼 LinkedIn](https://www.linkedin.com/in/sourav-subham-4708a4251/)**
 
 </div>
 
